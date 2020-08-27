@@ -1,0 +1,11 @@
+*.opensdf
+*.sdf
+*.suo
+*.obj
+*.ilk
+*.db
+*.user
+*.opendb
+*.pdb
+Builds/*
+/.vs/wow64ext/v16/ipch/AutoPCH/b9ab52bcf14c6a62
